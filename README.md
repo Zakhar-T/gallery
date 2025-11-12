@@ -1,4 +1,4 @@
-# Vanilla App Template
+# Gallery
 
 An interactive image gallery app built with vanilla JavaScript. Features dynamic searching, infinite scroll loading for a seamless browsing experience.
 
